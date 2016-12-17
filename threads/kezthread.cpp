@@ -15,7 +15,7 @@ int main()
 
 	threadObj.join();
 
-	std::cout << "hi !" << std::endl;
+	std::cout << "hi All !" << std::endl;
 
 	std::cout << "Exit main function" << std::endl;
 
